@@ -5,6 +5,7 @@ ITEM.AllowedUserGroups = { "superadmin" }
 ITEM.AdminOnly = true
 ITEM.NoPreview = true
 
+
 function ITEM:OnEquip(ply, modifications)
 	if not ply._OldModel then
 		ply._OldModel = ply:GetModel()

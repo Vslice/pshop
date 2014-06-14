@@ -4,7 +4,6 @@ ITEM.Model = 'models/mlp/player_chrysalis.mdl'
 ITEM.AllowedUserGroups = { "superadmin" }
 ITEM.AdminOnly = true
 ITEM.NoPreview = true
-//http://steamcommunity.com/sharedfiles/filedetails/?id=249088518&searchtext=
 
 function ITEM:OnEquip(ply, modifications)
 	if not ply._OldModel then

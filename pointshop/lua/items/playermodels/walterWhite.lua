@@ -1,6 +1,6 @@
 ITEM.Name = 'Walter White'
 ITEM.Price = 2500
-ITEM.Model = ''
+ITEM.Model = 'models/agent_47.mdl'
 ITEM.Donator = false
 
 function ITEM:OnEquip(ply, modifications)

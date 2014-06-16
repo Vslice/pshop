@@ -1,5 +1,5 @@
 ITEM.Name = 'Walter White'
-ITEM.Price = 2500
+ITEM.Price = 1500
 ITEM.Model = 'models/agent_47.mdl'
 ITEM.Donator = false
 

@@ -1,6 +1,3 @@
---pshop add credits on death
-
-
 local function PSCreditDeath( victim, weapon, killer )
  
 	if GAMEMODE.round_state == ROUND_ACTIVE then

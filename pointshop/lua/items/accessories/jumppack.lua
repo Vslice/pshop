@@ -20,6 +20,6 @@ end
 
 function ITEM:Think(ply, modifications)
 	if ply:KeyDown(IN_JUMP) then
-		ply:SetVelocity(ply:GetUp() * 7.5)
+		ply:SetVelocity(ply:GetUp() * 8)
 	end
 end
